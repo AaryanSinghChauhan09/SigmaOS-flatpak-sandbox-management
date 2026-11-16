@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-flatpak-sandbox-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS flatpak-sandbox-management component - deployment"
+
+[lib]
+name = "flatpak_sandbox_management"
+path = "src/lib.rs"
