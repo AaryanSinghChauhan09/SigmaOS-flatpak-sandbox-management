@@ -3,7 +3,7 @@ name = "SigmaOS-flatpak-sandbox-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "flatpak-sandbox-management component"
+description = "Flatpak Sandbox Management"
 upstream = []
 
 [contract]
